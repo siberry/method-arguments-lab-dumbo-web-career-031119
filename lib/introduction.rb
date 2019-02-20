@@ -1,3 +1,3 @@
 def introduction(name)
-  "Wow, #(name)."
+  puts "Wow, #(name)."
 end
